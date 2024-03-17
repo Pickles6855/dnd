@@ -1,0 +1,1 @@
+Long ago, the [[Ancient People]] lived on the island. 

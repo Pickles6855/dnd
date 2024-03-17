@@ -1,0 +1,1 @@
+The Ancient People are the druids who wandered the Island before the [[Eldritch Being]] came. They had a magical connection to the [[Runewood Trees]] and cared for them. 
