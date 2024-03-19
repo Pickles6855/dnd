@@ -35,3 +35,8 @@ unit: miles
 scale: 1  
 darkMode: false  
 ```
+
+## Common Knowledge
+Lemonborough island is a mysterious place, but there are a few things any commoners on the island can tell the players.
+- The island has been sealed off from the outside world for 500 years, and no one has managed to escape. However, some people have managed to find their way to the island, either by mistake or through lots of research.
+- There used to be an ancient civilization of people on this island, but they are long gone now. Evidence of their existence can be found in the two ruined structures on the northwest and southeast corners of the island.

@@ -1,1 +1,11 @@
-Long ago, the [[Ancient People]] lived on the island. 
+**The Beginning** The island was once home to [[Ancient People|a tribe of magical druids]] that harnessed the power of the island’s magical [[Runewood Trees]]. These druids would care for the trees and make sure that they could survive.
+
+**Eldritch Invasion** Soon, an [[Eldritch Being|eldritch being]] from another plane found its way to Lemonborough Island. It began to terrorize the native inhabitants of the island, taking over their settlements and carving strange runes in the stone. It took some of the druids as servants, transforming them into an unfamiliar state.
+
+**The Fall of the Eldritch Being** As the eldritch being’s power drained, it became dormant. A couple of the druids who the eldritch being had taken as his servants transformed into wights who now guard the ruins of Lemonborough island. The remaining druids slowly transformed into a tribe of creatures that currently inhabits the island, forgetting all past traditions.
+
+**Lemonborough Island is Discovered** Soon, creatures from the nearby kingdoms started to settle down on the island, drawn by the magical trees. These include the ancestors of the current residents of Oakenrule, Green Dale, Edgewick, and Moonford, as well as the hobgoblin tribe.
+
+**The Wizard Comes** Without the druids to care for the magical trees, they soon begin to stop producing the fruit that once brought great healing powers to the druids. This phenomenon attracted a great wizard and his apprentice. Soon, the wizard discovered the dormant eldritch being, deep within the Windale Tops. To protect the outside world, he sealed off the island with a powerful spell, and left his apprentice on the island to look after it. The wizard’s apprentice still resides on the island today.
+
+**A New Adventurer** The wizard was powerful, but his spell to seal off the island wasn’t perfect. Some ships have mistakenly made their way to the island. [[Previous Adventurer|One adventurer]] figured out how to get to it and came to investigate and find out more about it, but soon went missing. Nearly 50 years later, the players will find themselves on the island, and discover his journal.

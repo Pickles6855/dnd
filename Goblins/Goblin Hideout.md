@@ -1,2 +1,0 @@
-
-![[Cave Hideout.jpg]]
