@@ -15,4 +15,3 @@ creature: Goblin
 creature: Hobgoblin
 ```
 
-
