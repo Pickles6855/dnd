@@ -1,6 +1,6 @@
 ## Previous Session
 
-## Whats Happened So Far
+## What's Happened So Far
 
 ## Session Plan
 
