@@ -8,13 +8,18 @@ In Living Quarters, Goblin Hideout
 ### Session Goals
 - [ ] Defeat [[Goblin Hideout]]
 
-- [ ] Players can hear whispers in goblin hideout on wizard
-	- [ ] "I saw the wizard out of his tower today, we have to act fast"
 
 
 ### What the Players Need to Learn
-- What the [[Runewood Trees]] are/do
+
+#### Now
 - 
+
+#### Eventually
+- [[Eldritch Being]] on island
+- 
+
+
 
 ### What the Players Know
 - [[Runewood Trees]] have been dormant, can heal or damage
