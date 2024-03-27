@@ -7,6 +7,8 @@ Regular goblins know nothing, but the hobgoblins in charge know many things.
 
 - The [[Runewood Trees]] host great magical power, but they must first be unlocked
 
+4cp 1gp 10sp
+
 
 ```statblock
 creature: Goblin
