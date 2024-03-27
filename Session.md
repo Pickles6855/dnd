@@ -1,4 +1,6 @@
 ## Previous Session
+In Living Quarters, Goblin Hideout
+
 
 ## What's Happened So Far
 
@@ -14,3 +16,8 @@
 ### What the Players Need to Learn
 - What the [[Runewood Trees]] are/do
 - 
+
+### What the Players Know
+- [[Runewood Trees]] have been dormant, can heal or damage
+- "Awakening" happening in 5 days time
+- Island has been sealed for 500 years
