@@ -1,5 +1,5 @@
 ## Previous Session
-In Living Quarters, Goblin Hideout
+In Swamp, fighting bullywugs and giant frogs
 
 ## What's Happened So Far
 
